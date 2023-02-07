@@ -60,9 +60,7 @@ I've learned that sometimes a challenge might seem easy at first, but you quickl
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+One thing that through me off was the Challenge by and Coded by texts at the bottom of the screen. I wasn't sure how to keep these in the page and to the bottom of the screen. At first I've included it in the main tag, but thought the best course of action would be to add it outside of main and set main to a height of 95vh just enough to make space for the text. However this also added a top margin which I had to correct with the background property.
 
 ### Useful resources
 

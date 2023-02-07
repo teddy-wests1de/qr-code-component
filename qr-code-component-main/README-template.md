@@ -5,8 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -18,6 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+This is my first project Frontend Mentor based on their recommendation for first time users.
 
 ### Screenshot
 
@@ -37,6 +36,19 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+I'm starting out with downloading the project files, unzip them and save it to my Practice directory on my pc.
+I'm also initializing the directory as a git repo.
+Creating a repo for this project on GitHub and adding it to my local git directory.
+I then do an initial first commit to update the project files and a push to Github.
+
+After completing above steps I'm now ready to start planinng my code.
+I'm first looking at the designs to understand what components the page is made up of.
+I the write the html markup to include all the elements as listed above.
+
+Looking at the design files I'm envisioning a div tag containing an img and two p elements.
+I'm also looking to code according to the mobile first workflow as there would be less need later on to alter for mobile.
+
+
 
 ### Built with
 

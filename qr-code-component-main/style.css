@@ -1,0 +1,60 @@
+/* QR Code project for Frontend Mentor - Elrico Landrew
+07 February 2023 */
+
+/* Reset margins */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    --color-white: hsl(0, 0%, 100%);
+    --color-light-grey: hsl(212, 45%, 89%);
+    --color-grayish-blue: hsl(220, 15%, 55%);
+    --color-dark-blue: hsl(218, 44%, 22%);
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    background: var(--color-light-grey);
+}
+main {
+    background: var(--color-light-grey);
+    height: 95vh;
+}
+p {
+    width: 250px;
+    border-radius: 5px;
+    margin: 1rem auto;
+}
+.p1 {
+    font-weight: 700;
+    color: var(--color-dark-blue);
+    font-size: 1.3rem;
+}
+.p2 {
+    font-weight: 400;
+    color: var(--color-grayish-blue);
+
+}
+.content {
+    width: 300px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: var(--color-white);
+    text-align: center;
+    border-radius: 20px;
+}
+.logo {
+    width: 90%;
+    border-radius: 15px;
+    margin: 1rem auto;
+ 
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }

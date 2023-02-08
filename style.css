@@ -49,11 +49,11 @@ p {
     background: var(--color-white);
     text-align: center;
     border-radius: 20px;
+    padding: auto;
 }
 .logo {
     max-width: 100%;
     border-radius: 10%;
-    margin: 1rem auto;
     padding: 15px;
 }
 .attribution { font-size: 11px; text-align: center; }
